@@ -1,2 +1,2 @@
 # invader
-super simple invador game
+super simple invador game.
